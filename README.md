@@ -8,7 +8,7 @@
 <hr>
 
 - 🔭 I’m currently working on: a mobile application about all the events here in Mexico.
-- 🌱 I’m currently learning: React, PostgreSQL and Django.
+- 🌱 I’m currently learning: React, JavaScript, PostgreSQL and Django.
 - ✈  I’m looking to work: on an international company and move on to a place like Canada, New York or London.
 - 💬 Ask me about: anything lol.
 - 📫 How to reach me: you can send me a private message to my LinkedIn account and for sure I'll answer you.
