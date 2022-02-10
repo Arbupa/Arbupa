@@ -1,9 +1,13 @@
 ### Hi there, I'm Arnoldo Muñoz 👋 - A little Fullstack developer ⚡ 
 ## Reach me at: ##
-[![linkedin][1]][2]
+[![linkedin][1]][2] [![gitlab][3]][4] 
+
+
 
 [1]:  https://img.icons8.com/nolan/48/linkedin.png
 [2]:  https://www.linkedin.com/in/juan-arnoldo-chavez-mu%C3%B1oz-b0b98418a/ "Redirect to my LinkedIn profile"
+[3]:  https://img.icons8.com/nolan/48/gitlab
+[4]:  https://gitlab.com/Arbupa "Redirect to my Gitlab profile"
 
 <hr>
 
