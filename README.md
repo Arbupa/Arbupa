@@ -1,22 +1,18 @@
 ### Hi there, I'm Arnoldo Muñoz 👋 - A little Fullstack developer ⚡ 
 ## Reach me at: ##
-[![linkedin][1]][2] [![gitlab][3]][4] 
+[![linkedin][1]][2] 
 
 
 
 [1]:  https://img.icons8.com/nolan/48/linkedin.png
 [2]:  https://www.linkedin.com/in/juan-arnoldo-chavez-mu%C3%B1oz-b0b98418a/ "Redirect to my LinkedIn profile"
-[3]:  https://img.icons8.com/nolan/48/gitlab
-[4]:  https://gitlab.com/Arbupa "Redirect to my Gitlab profile"
 
 <hr>
 
-- 🔭 I’m currently working on: a mobile application about all the events here in Mexico.
-- 🌱 I’m currently learning: React, JavaScript, PostgreSQL and Django.
-- ✈  I’m looking to work: on an international company and move on to a place like Canada, New York or London.
+- ✈  I’m looking to work: on an international company with awesome people and being able to travel around the world.
 - 💬 Ask me about: anything lol.
 - 📫 How to reach me: you can send me a private message to my LinkedIn account and for sure I'll answer you.
-- 😋 Fun fact: pending...
+- 😋 Fun fact: I'm a person with very bad luck at daily things.
 
 <hr>
 
