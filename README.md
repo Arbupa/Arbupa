@@ -1,4 +1,4 @@
-### Hi there, I'm Arnoldo Muñoz 👋 - A little Fullstack developer ⚡ 
+### Hi there, I'm Arnoldo Muñoz 👋 
 ## Reach me at: ##
 [![linkedin][1]][2] 
 
